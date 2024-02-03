@@ -6,10 +6,10 @@ You can check the json files inside jsons folder
 
 - `DataProviderX` data is stored in [DataProviderX.json]
 - `DataProviderY` data is stored in [DataProviderY.json]
-
+# stpes
 `clone the project`
 
-`cd to reafFromFile`
+`cd to fileReaderProvider`
 
 `run cp .env.example .env`
 
