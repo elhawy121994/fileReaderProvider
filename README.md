@@ -1,6 +1,6 @@
 
 ## Challenge Idea
-We have two providers collect data from them two main providers to get products that contain offers  in json files we need to read and make some filter operations on them to get the result
+We have two providers collect data from them two main providers to get users that contain offers  in json files we need to read and make some filter operations on them to get the result
 
 You can check the json files inside jsons folder 
 
