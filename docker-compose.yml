@@ -1,0 +1,33 @@
+version: "3.7"
+services:
+    app:
+        build:
+            args:
+                user: mahmoud
+                uid: 1000
+            context: ./
+            dockerfile: Dockerfile
+        image: namaa
+        container_name: read-from-app
+        restart: unless-stopped
+        working_dir: /var/www/
+        volumes:
+            - ./:/var/www
+        networks:
+            - namaa
+
+    nginx:
+        image: nginx:alpine
+        container_name: namaa-nginx
+        restart: unless-stopped
+        ports:
+            - 8081:80
+        volumes:
+            - ./:/var/www
+            - ./docker-compose/nginx:/etc/nginx/conf.d/
+        networks:
+            - namaa
+
+networks:
+    namaa:
+        driver: bridge

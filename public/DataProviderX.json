@@ -1,0 +1,90 @@
+[
+    {
+        "parentAmount": 200,
+        "Currency": "USD",
+        "parentEmail": "parent1@parent.eu",
+        "statusCode": 1,
+        "registerationDate": "2018-11-30",
+        "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+    },
+    {
+        "parentAmount": 779,
+        "Currency": "EUR",
+        "parentEmail": "user0@example.com",
+        "statusCode": 3,
+        "registerationDate": "2024-02-03",
+        "parentIdentification": "65bda5cd0a0b6"
+    },
+    {
+        "parentAmount": 758,
+        "Currency": "EUR",
+        "parentEmail": "user1@example.com",
+        "statusCode": 3,
+        "registerationDate": "2024-02-02",
+        "parentIdentification": "65bda5cd0a0ba"
+    },
+    {
+        "parentAmount": 881,
+        "Currency": "EUR",
+        "parentEmail": "user2@example.com",
+        "statusCode": 2,
+        "registerationDate": "2024-02-01",
+        "parentIdentification": "65bda5cd0a0bc"
+    },
+    {
+        "parentAmount": 707,
+        "Currency": "EUR",
+        "parentEmail": "user3@example.com",
+        "statusCode": 3,
+        "registerationDate": "2024-01-31",
+        "parentIdentification": "65bda5cd0a0bd"
+    },
+    {
+        "parentAmount": 123,
+        "Currency": "EUR",
+        "parentEmail": "user4@example.com",
+        "statusCode": 2,
+        "registerationDate": "2024-01-30",
+        "parentIdentification": "65bda5cd0a0bf"
+    },
+    {
+        "parentAmount": 885,
+        "Currency": "EUR",
+        "parentEmail": "user5@example.com",
+        "statusCode": 1,
+        "registerationDate": "2024-01-29",
+        "parentIdentification": "65bda5cd0a0c0"
+    },
+    {
+        "parentAmount": 964,
+        "Currency": "EUR",
+        "parentEmail": "user6@example.com",
+        "statusCode": 1,
+        "registerationDate": "2024-01-28",
+        "parentIdentification": "65bda5cd0a0c2"
+    },
+    {
+        "parentAmount": 295,
+        "Currency": "EUR",
+        "parentEmail": "user7@example.com",
+        "statusCode": 3,
+        "registerationDate": "2024-01-27",
+        "parentIdentification": "65bda5cd0a0c3"
+    },
+    {
+        "parentAmount": 523,
+        "Currency": "EUR",
+        "parentEmail": "user8@example.com",
+        "statusCode": 3,
+        "registerationDate": "2024-01-26",
+        "parentIdentification": "65bda5cd0a0c5"
+    },
+    {
+        "parentAmount": 254,
+        "Currency": "EUR",
+        "parentEmail": "user9@example.com",
+        "statusCode": 3,
+        "registerationDate": "2024-01-25",
+        "parentIdentification": "65bda5cd0a0c6"
+    }
+]
